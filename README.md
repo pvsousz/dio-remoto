@@ -1,7 +1,7 @@
 
 ##  Title - Resume Git e Github
 
-lorem ispum codigo repositorio codigo, sistema de versionamento para aprendizagem  [Codigo Fonte](https://www.youtube.com/user/codigofontetv).
+lorem ispm codigo repositorio codigo, sistema de versionamento para aprendizagem  [Codigo Fonte](https://www.youtube.com/user/codigofontetv).
 
 ## 📚 Documentação
 
